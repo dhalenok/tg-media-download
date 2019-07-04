@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+pyaes==1.6.1
+pyasn1==0.4.5
+rsa==4.0
+telethon==1.8.0
