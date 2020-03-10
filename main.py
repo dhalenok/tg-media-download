@@ -52,7 +52,7 @@ if messages:
         saved_filenames.append(message.file.name)
         message.download_media(directory_name)
 
-    print(f"\n✅ Successfully following files to `{directory_name}` folder:")
+    print(f"\n✅ Successfully downloaded following files to `{directory_name}` folder:")
 
     for filename in saved_filenames:
         print(filename)
