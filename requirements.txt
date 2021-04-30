@@ -1,6 +1,6 @@
--i https://pypi.org/simple
+-i https://pypi.org/simple/
 pyaes==1.6.1
-pyasn1==0.4.5
-rsa==4.0
+pyasn1==0.4.8
+rsa==4.7
 telethon==1.8.0
 tqdm==4.32.2
